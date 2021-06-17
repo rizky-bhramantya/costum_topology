@@ -6,13 +6,13 @@
     "of:0000000000000004": { "basic": { "name": "PALEMBANG", "latitude": -2.9888297, "longitude": 104.756857 }},
     "of:0000000000000005": { "basic": { "name": "BENGKULU", "latitude": -3.5186763, "longitude": 102.5359834 }},
     "of:0000000000000006": { "basic": { "name": "BANDAR LAMPUNG", "latitude": -5.4460713, "longitude": 105.2643742 }},
-	"of:0000000000000007": { "basic": { "name": "DKI JAKARTA", "latitude": -6.1753942, "longitude": 106.827183 }},
+    "of:0000000000000007": { "basic": { "name": "DKI JAKARTA", "latitude": -6.1753942, "longitude": 106.827183 }},
     "of:0000000000000008": { "basic": { "name": "BANDUNG", "latitude": -6.9344694, "longitude": 107.6049539 }},
     "of:0000000000000009": { "basic": { "name": "DIY YOGYAKARTA", "latitude": -7.9778384, "longitude": 110.3672257 }},
     "of:000000000000000A": { "basic": { "name": "SURAKARTA", "latitude": -7.5692462, "longitude": 110.828448 }},
     "of:000000000000000B": { "basic": { "name": "SURABAYA", "latitude": -7.2459717, "longitude": 112.7378266 }},
     "of:000000000000000C": { "basic": { "name": "MALANG", "latitude": -7.9771206, "longitude": 112.6340291 }},
-	"of:000000000000000D": { "basic": { "name": "MAKASSAR", "latitude": -5.1342962, "longitude": 119.4124282 }},
+    "of:000000000000000D": { "basic": { "name": "MAKASSAR", "latitude": -5.1342962, "longitude": 119.4124282 }},
     "of:000000000000000E": { "basic": { "name": "DENPASAR", "latitude": -8.6524973, "longitude": 115.2191175 }},
     "of:000000000000000F": { "basic": { "name": "MATARAM", "latitude": -8.5837726, "longitude": 116.10685 }}
   },
@@ -23,12 +23,12 @@
     "00:00:00:00:00:04/-1": { "basic": { "locations": ["of:0000000000000004/1"], "name": "UNSRI", "ips": ["111.99.4.3"], "latitude": -2.0000000, "longitude": 106.0000000 }},
     "00:00:00:00:00:06/-1": { "basic": { "locations": ["of:0000000000000006/1"], "name": "UMITRA", "ips": ["111.99.6.4"], "latitude": -6.0000000, "longitude": 106.0000000 }},
     "00:00:00:00:00:07/-1": { "basic": { "locations": ["of:0000000000000007/1"], "name": "UI", "ips": ["111.99.7.5"], "latitude": -5.0000000, "longitude": 107.0000000 }},
-    "00:00:00:00:00:08/-1": { "basic": { "locations": ["of:0000000000000008/1"], "name": "ITB", "ips": ["111.99.8.6"], "latitude": -7.0000000, "longitude": 108.0000000 }},
-	"00:00:00:00:00:09/-1": { "basic": { "locations": ["of:0000000000000009/1"], "name": "UGM", "ips": ["111.99.9.7"], "latitude": -8.0000000, "longitude": 110.0000000 }},
+    "00:00:00:00:00:08/-1": { "basic": { "locations": ["of:0000000000000008/1"], "name": "ITB", "ips": ["111.99.8.6"], "latitude": -7.0000000, "longitude": 108.0000000 }}, 
+    "00:00:00:00:00:09/-1": { "basic": { "locations": ["of:0000000000000009/1"], "name": "UGM", "ips": ["111.99.9.7"], "latitude": -8.0000000, "longitude": 110.0000000 }},
     "00:00:00:00:00:10/-1": { "basic": { "locations": ["of:000000000000000A/1"], "name": "ISI", "ips": ["111.99.10.8"], "latitude": -8.0000000, "longitude": 111.0000000 }},
     "00:00:00:00:00:11/-1": { "basic": { "locations": ["of:000000000000000B/1"], "name": "ITS", "ips": ["111.99.11.9"], "latitude": -7.0000000, "longitude": 113.0000000 }},
     "00:00:00:00:00:12/-1": { "basic": { "locations": ["of:000000000000000C/1"], "name": "UB", "ips": ["111.99.12.10"], "latitude": -8.0000000, "longitude": 113.0000000 }},
-    "00:00:00:00:00:13/-1": { "basic": { "locations": ["of:000000000000000E/1"], "name": "UNHAS", "ips": ["111.99.13.11"], "latitude": -5.0000000, "longitude": 120.0000000 }},
-    "00:00:00:00:00:14/-1": { "basic": { "locations": ["of:000000000000000F/1"], "name": "UNUD", "ips": ["111.99.14.12"], "latitude": -9.0000000, "longitude": 115.0000000 }}
+    "00:00:00:00:00:13/-1": { "basic": { "locations": ["of:000000000000000D/1"], "name": "UNHAS", "ips": ["111.99.13.11"], "latitude": -5.0000000, "longitude": 120.0000000 }},
+    "00:00:00:00:00:14/-1": { "basic": { "locations": ["of:000000000000000E/1"], "name": "UNUD", "ips": ["111.99.14.12"], "latitude": -9.0000000, "longitude": 115.0000000 }}
   }
 }
